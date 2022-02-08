@@ -1,0 +1,20 @@
+name: PlayerBroadCast
+version: '${project.version}'
+main: dec0de.me.Core
+authors: [ DeC0de ]
+description: Player can do BroadCast
+commands:
+  unplayerbroadcast:
+    aliases:
+      - ubpbc
+  playerbroadcast:
+    aliases:
+      - pbc
+      - bc
+  playerbroadcastadmin:
+    aliases:
+      - pbca
+      - pbadmin
+  banplayerbroadcast:
+    aliases:
+      - bpbc
